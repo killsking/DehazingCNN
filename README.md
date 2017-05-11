@@ -1,5 +1,5 @@
 # DehazingCNN
-this is a project for icme 2017 paper
+this is a project for paper “Single Image Dehazing Using Deep Convolution Neural Networks”
 we have test the code on ubuntu 14.04. 
 
 You need install matconvnet to run this code.
